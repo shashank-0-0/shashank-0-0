@@ -15,6 +15,16 @@ Ever since I first wrote code to display a button, my fascination with developin
 - My Jetpack Compose Skills
 - Contributing to opensource android applications
 
+## 🔭 Last 5 Open Source Contributions
+
+- [<font color="blue">#3413</font>](https://github.com/your/repository/issues/3413) - BugFix: Fixed BottomViewLost Issue
+- [<font color="blue">#3343</font>](https://github.com/your/repository/issues/3343) - Fixed CodeFactor Issues
+- [<font color="blue">#3299</font>](https://github.com/your/repository/issues/3299) - BugFix: Fixed SnackBar Hidden Issue
+- [<font color="blue">#1899</font>](https://github.com/your/repository/issues/1899) - Feature: Added a shortcut action
+- [<font color="blue">#1876</font>](https://github.com/your/repository/issues/1876) - Feature: Implemented Exchange Rates functionality
+
+  
+
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/shashank-s-0b2ab3208"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
