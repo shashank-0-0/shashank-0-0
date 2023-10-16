@@ -25,7 +25,7 @@ Ever since I first wrote code to display a button, my fascination with developin
 
 ## 📈 GitHub Stats 
 
-[![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shashank-0-0&theme=github_dark_dimmed)](https://github.com/shashank-0-0)
+[![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shashank-0-0&theme=default)](https://github.com/shashank-0-0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-0-0&layout=compact)](https://github.com/shashank-0-0)
 
