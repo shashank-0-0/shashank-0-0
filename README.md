@@ -15,7 +15,14 @@ Ever since I first wrote code to display a button, my fascination with developin
 - My Jetpack Compose Skills
 - Contributing to opensource android applications
 
-  
+## 🔭 Last 5 Open Source Contributions
+
+- [<font color="blue">#3413</font>](https://github.com/kiwix/kiwix-android/pull/3413) - BugFix: Fixed BottomViewLost Issue
+- [<font color="blue">#3343</font>](https://github.com/kiwix/kiwix-android/pull/3343) - Fixed CodeFactor Issues
+- [<font color="blue">#3299</font>](https://github.com/kiwix/kiwix-android/pull/3299) - BugFix: Fixed SnackBar Hidden Issue
+- [<font color="blue">#1899</font>](https://github.com/Ivy-Apps/ivy-wallet/pull/1899) - Feature: Added a shortcut action
+- [<font color="blue">#1876</font>](https://github.com/Ivy-Apps/ivy-wallet/pull/1876) - Feature: Implemented Exchange Rates functionality
+
 
 ## 🤝 Connect with me:
 
